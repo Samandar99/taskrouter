@@ -72,3 +72,15 @@ a {
 .header__nav-link.router-link-exact-active {
   color: #ff0000;
 }
+
+.main__item {
+  margin-top: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+}
+
+.main__item-img img {
+  max-width: 320px;
+}
